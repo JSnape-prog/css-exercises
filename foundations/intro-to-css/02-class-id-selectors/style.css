@@ -1,0 +1,22 @@
+.oddNumbers
+{
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+
+.adjust-Fontsize
+{
+    font-size: 24px;
+}
+
+#second
+{
+    color: blue;
+    font-size: 36px;
+}
+
+#forth
+{
+    background-color: lightgreen;
+    font-weight: bold;
+}
